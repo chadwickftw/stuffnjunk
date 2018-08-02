@@ -1,4 +1,5 @@
-//imports needed classes, defines creds and lm portal account, constructs url, specify rest endpoint (e.g., /devices/devices), prints stdout (println)
+//imports needed classes, defines creds and lm portal account, constructs url, specify rest endpoint (e.g., /devices/devices), prints stdout (println).
+//needs pagination handing
 
 import org.apache.http.HttpEntity
 import org.apache.http.client.methods.CloseableHttpResponse
